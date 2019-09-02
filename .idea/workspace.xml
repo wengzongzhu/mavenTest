@@ -1,27 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="326cabdc-47fc-4457-9b6d-7bada2f3c3f0" name="Default Changelist" comment="idea基础项目">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/tomcat/conf/logging.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/tomcat/conf/tomcat-users.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/tomcat/conf/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/tomcat/logs/access_log.2019-05-23" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/tomcat/logs/access_log.2019-05-24" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/tomcat/logs/access_log.2019-05-30" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/tomcat/logs/access_log.2019-07-31" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/tomcat/logs/access_log.2019-08-29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/tomcat/logs/access_log.2019-08-30" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.java" afterDir="false" />
+    <list default="true" id="326cabdc-47fc-4457-9b6d-7bada2f3c3f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/target/tomcat/logs/access_log.2019-09-02" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -67,6 +50,13 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -122,11 +112,6 @@
             <path>
               <item name="mavenTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="mavenTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mavenTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mavenTest" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -208,14 +193,22 @@
       <workItem from="1559225979844" duration="3473000" />
       <workItem from="1564541084676" duration="1541000" />
       <workItem from="1567070797153" duration="11177000" />
-      <workItem from="1567406287249" duration="2110000" />
+      <workItem from="1567406287249" duration="3990000" />
     </task>
+    <task id="LOCAL-00001" summary="idea基础项目">
+      <created>1567409920687</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567409920688</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32186000" />
+    <option name="totallyTimeSpent" value="34066000" />
   </component>
-  <component name="TodoView" selected-index="4">
+  <component name="TodoView" selected-index="5">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -237,18 +230,18 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.32993197" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.32879046" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" weight="0.39965987" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.32879046" />
-      <window_info anchor="bottom" id="Spring" order="7" weight="0.32993197" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32993197" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32879046" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32879046" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32879046" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.39965987" />
-      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32993197" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32879046" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32879046" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -284,6 +277,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-988">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
         </state>
       </provider>
     </entry>
